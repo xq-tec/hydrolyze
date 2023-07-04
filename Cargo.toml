@@ -1,0 +1,8 @@
+[package]
+name = "hydrolyze"
+version = "0.0.0"
+description = "VHDL and Verilog parser"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
